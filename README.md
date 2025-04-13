@@ -1,5 +1,6 @@
 # HR-Analytics-Dashboard
 This is a complete Power BI project that includes data import, cleaning, and creating an interactive dashboard. The goal of this project is to show useful insights in a clear and easy-to-understand format.
+
 🔹**What This Project Includes**
 Importing data from Excel/CSV files
 
